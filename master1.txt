@@ -1,0 +1,5 @@
+This is second repositry
+
+I am Full Java developer
+
+I Know Git All command
